@@ -39,6 +39,6 @@ sixs: $(OBJECTS0) $(OBJECTS1) $(OBJECTS2)
 
 clean:
 	rm -f *.o
-	
+	rm -f sixsV2*
 	
 	
